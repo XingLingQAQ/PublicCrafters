@@ -38,6 +38,13 @@
 		<module>PublicCrafters_v1_21_R2</module>
 	</modules>
 
+        <repositories>
+          <repository>
+            <id>codemc-nms-repository</id>
+            <url>https://repo.codemc.io/repository/nms/</url>
+          </repository>
+        </repositories>
+	
 	<build>
 		<plugins>
 			<plugin>
